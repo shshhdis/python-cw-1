@@ -10,7 +10,17 @@
 
 # Create a variable called `area` and assign to it the multiplication of `length` and `width`
 
-# Print `area` in the following: "The result is " followed by the `area` variable
+# Print `area` in the fol
+
+print('ali')
+
+print('4+4')
+print('8/2')
+print('2*2')
 
 
-# BONUS: Print the area in the following syntax: "If the length of a rectangle is 5, and width is 3 then the area is: 15". Keep in mind that you should replace the numbers with their respective variables. 
+amg = 4
+anm = 4
+art = anm * amg 
+
+print(art)
